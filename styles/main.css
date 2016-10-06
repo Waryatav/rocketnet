@@ -17068,9 +17068,13 @@ a .overlay-nobg-btn {
 .sponsor-list {
     margin: 10px 0;
 }
+.sponsor-list .sponsor-nav li{
+    list-style-type: none;
+}
 .block-list {
     margin-bottom: 15px;
     position: relative;
+    display: block;
 }
 .contacts-wrapper {
     margin: 10px 0;
