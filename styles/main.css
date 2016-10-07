@@ -17124,3 +17124,17 @@ a .overlay-nobg-btn {
 .copy-link-status{
     display: none;
 }
+.ulogin-buttons-container{
+    margin-left: 10px!important;
+    margin-bottom:15px!important;
+}
+.add-course{
+    font-size: 27px;
+    float: right;
+    color: #CF161E;
+    text-decoration: none;
+    margin-top: -20px;
+    position: relative;
+    top: 9px;
+}
+
