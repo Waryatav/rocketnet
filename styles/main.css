@@ -17120,3 +17120,7 @@ a .overlay-nobg-btn {
         font-size: 24px;
     }
 }
+
+.copy-link-status{
+    display: none;
+}
